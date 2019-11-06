@@ -11,3 +11,8 @@
   padding-top: 21px;
   color: #001f3f;
 }
+.personal-pic {
+  height: 13rem;
+  width: 12rem;
+  border-radius: 50%;
+}
