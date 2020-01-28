@@ -11,8 +11,21 @@
   padding-top: 21px;
   color: #001f3f;
 }
-.personal-pic {
-  height: 13rem;
-  width: 12rem;
-  border-radius: 50%;
+
+/* RECENT WORK STYLING */
+
+#container {
+  margin: 5rem;
+}
+#work-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  list-style-type: none;
+}
+.list-item {
+  padding-bottom: 5rem;
+}
+img {
+  max-width: 20rem;
+  max-height: 15rem;
 }
