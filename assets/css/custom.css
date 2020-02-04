@@ -11,6 +11,16 @@
   padding-top: 21px;
   color: #001f3f;
 }
+#back-button {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-right: 2rem;
+}
+#resume-link {
+  position: absolute;
+  bottom: 0;
+}
 
 /* RECENT WORK STYLING */
 
